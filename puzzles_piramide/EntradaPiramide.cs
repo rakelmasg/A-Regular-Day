@@ -1,4 +1,10 @@
-﻿using System.Collections;
+
+/*
+	Fecha creación: 24/12/2017 
+	Autor: Raquel Más
+	
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
