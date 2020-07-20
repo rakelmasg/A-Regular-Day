@@ -1,7 +1,7 @@
 
 /*
 	Fecha creación: 24/12/2017 
-	Autor: Raquel Más
+	Autor: Raquel Mas
 	
 */
 using System.Collections;
