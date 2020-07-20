@@ -1,4 +1,9 @@
-﻿using System.Collections;
+/*
+	Fecha creación: 23/12/2017 
+	Autor: Raquel Mas
+	
+*/
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
